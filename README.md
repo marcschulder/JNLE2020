@@ -1,7 +1,7 @@
 # Automatic Generation of Lexica for Sentiment Polarity Shifters
 This repository contains data due to be submitted as part of:
 
-[Schulder, Marc](http://marc.schulder.info), [Wiegand, Michael](http://www.coli.uni-saarland.de/~miwieg/) and [Ruppenhofer, Josef](http://ruppenhofer.de/) (to be submitted). **"Automatic Generation of Lexica for Sentiment Polarity Shifters"**.
+[Schulder, Marc](http://marc.schulder.info), [Wiegand, Michael](http://www.coli.uni-saarland.de/~miwieg/) and [Ruppenhofer, Josef](http://ruppenhofer.de/) (under review). **"Automatic Generation of Lexica for Sentiment Polarity Shifters"**.
 
 ## Content
 We provide a bootstrapped lexicon of English polarity shifters and their shifting direction.
