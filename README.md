@@ -1,7 +1,7 @@
 # Bootstrapped Lexicon of English Polarity Shifters
 This repository contains data due to be submitted as part of:
 
-[Schulder, Marc](http://marc.schulder.info), [Wiegand, Michael](http://www.coli.uni-saarland.de/~miwieg/) and [Ruppenhofer, Josef](http://ruppenhofer.de/) (forthcoming). **"Automatic Generation of Lexica for Sentiment Polarity Shifters"**.
+[Marc Schulder](http://marc.schulder.info), [Michael Wiegand](https://www.cl.uni-heidelberg.de/~wiegand/) and [Josef Ruppenhofer](http://ruppenhofer.de/) (2020). **"Automatic Generation of Lexica for Sentiment Polarity Shifters"**. In: _Natural Language Engineering_. [doi:10.1017/S135132492000039X](https://doi.org/10.1017/S135132492000039X)
 
 ## Content
 We provide a bootstrapped lexicon of English polarity shifters and their shifting direction.
@@ -48,7 +48,7 @@ The file starts with 400 phrases containing shifter verbs, followed by 2231 phra
   - Items are separated by a line of asterisks (*)
 
 ## Attribution
-This data set is published under [Creative Commons Attribution 4.0](https://github.com/uds-lsv/bootstrapped-lexicon-of-english-verbal-polarity-shifters/blob/master/LICENSE).
+This data set and the associated article are published under [Creative Commons Attribution 4.0](https://github.com/uds-lsv/bootstrapped-lexicon-of-english-verbal-polarity-shifters/blob/master/LICENSE).
 
 ## Acknowledgements
 This work was partially supported by the German Research Foundation (DFG) under grants RU 1873/2-1 and WI4204/2-1.
