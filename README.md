@@ -1,5 +1,5 @@
 # Bootstrapped Lexicon of English Polarity Shifters
-This repository contains data due to be submitted as part of:
+This repository contains the data created as part of:
 
 [Marc Schulder](http://marc.schulder.info), [Michael Wiegand](https://www.cl.uni-heidelberg.de/~wiegand/) and [Josef Ruppenhofer](http://ruppenhofer.de/) (2020). **"Automatic Generation of Lexica for Sentiment Polarity Shifters"**. In: _Natural Language Engineering_. [doi:10.1017/S135132492000039X](https://doi.org/10.1017/S135132492000039X)
 
