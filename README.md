@@ -1,4 +1,7 @@
 # Bootstrapped Lexicon of English Polarity Shifters
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3365601.svg)](https://doi.org/10.5281/zenodo.3365601)
+
+
 This repository contains the data created as part of:
 
 [Marc Schulder](http://marc.schulder.info), [Michael Wiegand](https://www.cl.uni-heidelberg.de/~wiegand/) and [Josef Ruppenhofer](http://ruppenhofer.de/) (2020). **"Automatic Generation of Lexica for Sentiment Polarity Shifters"**. In: _Natural Language Engineering_. [doi:10.1017/S135132492000039X](https://doi.org/10.1017/S135132492000039X)
